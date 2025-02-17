@@ -21,6 +21,6 @@ Dont want your domain to expire? Just remove expiration_date
 
 Click the commit changes button on Github Code editor
 
-# Download/fork
+# Download/clone
 
 # Open the requistites file

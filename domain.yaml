@@ -4,6 +4,6 @@ registrant:
   email: electric-otter1@proton.me
 dns:
   - type: A
-    value: 1.1.1.1
+    value: 185.199.108.153
   - type: MX
     value: electric-otter1.webuntu.io

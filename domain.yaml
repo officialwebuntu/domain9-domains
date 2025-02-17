@@ -1,0 +1,9 @@
+domain: webuntu.io
+registrant:
+  name: electric-otter
+  email: electric-otter1@proton.me
+dns:
+  - type: A
+    value: 1.1.1.1
+  - type: MX
+    value: electric-otter1.webuntu.io
